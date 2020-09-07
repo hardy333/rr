@@ -8,3 +8,12 @@
 }
 body{
 }
+
+
+nav{
+	background:green;
+	color:red;
+	box-sizing: border-box;
+
+	display:flex;
+}
